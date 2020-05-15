@@ -14,7 +14,7 @@ Please see the introduction Video below or with [this link](https://drive.google
 
 ## Supplementary Material for the paper
 
-Please see the supplementary Material with [this link](https://drive.google.com/open?id=1aqJy465dLHaWPdMqG-BgjAgYEg70q7as)
+Please see the Supplementary Material with [this link](https://drive.google.com/open?id=1aqJy465dLHaWPdMqG-BgjAgYEg70q7as)
 
 Thank you.
 
