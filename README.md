@@ -11,6 +11,8 @@ Our model first infers the identities of variable numbers of speakers from the o
 Please see the introduction Video with this link:
 https://drive.google.com/open?id=1B4K4BhqAwxWkZP_LY98epjZ9asqIxkaU
 
+<video src="https://drive.google.com/open?id=1B4K4BhqAwxWkZP_LY98epjZ9asqIxkaU" controls="controls" width="100%" height="auto"/>
+
 To use the Cayman theme:
 
 1. Add the following to your site's `_config.yml`:
