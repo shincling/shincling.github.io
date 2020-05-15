@@ -8,8 +8,9 @@ Our model first infers the identities of variable numbers of speakers from the o
 
 ## Basic Introduction Demo 
 
-Please see the introduction Video with this link:
-https://drive.google.com/open?id=1B4K4BhqAwxWkZP_LY98epjZ9asqIxkaU
+Please see the introduction Video with [this link](https://drive.google.com/open?id=1B4K4BhqAwxWkZP_LY98epjZ9asqIxkaU)
+
+[This link](https://drive.google.com/open?id=1B4K4BhqAwxWkZP_LY98epjZ9asqIxkaU)
 
 <video src="https://drive.google.com/open?id=1B4K4BhqAwxWkZP_LY98epjZ9asqIxkaU" controls="controls" width="100%" height="auto"/>
 
