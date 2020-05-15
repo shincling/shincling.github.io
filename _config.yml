@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 
-title: [ Speaker-Conditional Chain Model for Speech Separation and Extraction]
-description: [A short introduction for our "Speaker-Conditional Chain Model for Speech Separation and Extraction" (SCCM) work.]
+title: [ Speaker-Conditional Chain Model 
+for Speech Separation and Extraction]
+#description: [A short introduction for our "Speaker-Conditional Chain Model for Speech Separation and Extraction" (SCCM) work.]
